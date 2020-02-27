@@ -8,8 +8,8 @@
     "url": "https://www.google.com.tr/maps/@41.0847699,29.0492408,16.39z"
   },
   "personal_site": {
-    "title": "medium blog",
-    "url": "https://medium.com/@mhewedy_46874/"
+    "title": "smddzcy.com",
+    "url": "https://smddzcy.com/"
   },
   "github": {
     "title": "github.com/smddzcy",
@@ -18,5 +18,10 @@
   "linkedin": {
     "title": "linkedin.com/in/smddzcy",
     "url": "https://www.linkedin.com/in/smddzcy"
-  }
+  },
+  "hackerrank": {
+    "title": "hackerrank.com/smddzcy",
+    "url": "https://www.hackerrank.com/smddzcy"
+  },
+  "google_analytics": "UA-43755905-9"
 }
