@@ -1,1 +1,11 @@
-[]
+[
+	{
+		  "company": "Ryiadh Java Meetup",
+		  "role": "Founder",
+		  "date": "April 2019 – Present",
+		  "location": "Riyadh, Saudi Arabia",
+		  "description_bullets": [
+			  "The Riyadh Java Meetup is a meetup concerted about Java and the JVM, with the main focus is on Spring framework and spring boot."
+		  ]
+	}
+]

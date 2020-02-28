@@ -26,4 +26,8 @@
   "name": "mego",
   "description": "The MS Exchange meeting organizer",
   "github": "https://github.com/mhewedy/mego"
+}, {
+  "name": "vm",
+  "description": "VirtaulBox manager wrapper",
+  "github": "https://github.com/mhewedy/vm"
 }]
