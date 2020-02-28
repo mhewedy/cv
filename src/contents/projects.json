@@ -1,52 +1,29 @@
 [{
-  "name": "CV",
-  "description": "A simple, modern CV/resume template. This CV is built using this template.",
-  "github": "https://github.com/smddzcy/cv"
+  "name": "SBO-video-extension",
+  "description": "Safari Books Online Video Downloder Extension to Google Chrome.",
+  "github": "https://github.com/mhewedy/SBO-video-extension"
 }, {
-  "name": "Chrome Meme Search",
-  "description": "A Chrome extension that lets you make spotlight search for memes.",
-  "github": "https://github.com/smddzcy/chrome-meme-search"
+  "name": "spwrap",
+  "description": "Simple Stored Procedure call wrapper with no framework dependencies.",
+  "github": "https://github.com/mhewedy/spwrap"
 }, {
-  "name": "BounCoursePlanner",
-  "description": "Course schedule planner for Boğaziçi University students. Finds the best schedule for a set of courses, which has the least conflicts and most free hours.",
-  "github": "https://github.com/smddzcy/BounCoursePlanner",
-  "link": "https://smddzcy.com/BounCoursePlanner/"
+  "name": "Sooty",
+  "description": "Extensible online searching/streaming Audio player, Initially designed as SouldCloud client for Mac.",
+  "github": "https://github.com/mhewedy/Sooty"
 }, {
-  "name": "BUEvents",
-  "description": "Events calendar for Boğaziçi University. It's the only events calendar since there isn't any official one.",
-  "github": "https://github.com/smddzcy/BUEvents",
-  "link": "https://smddzcy.com/BUEvents/"
+  "name": "ews",
+  "description": "Go package wrapper for Exchange Web Service (EWS)",
+  "github": "https://github.com/mhewedy/ews"
 }, {
-  "name": "BUYemek",
-  "description": "An iOS app for Boğaziçi University's cafeteria. There is also a separate project for its <a href=\"https://github.com/smddzcy/BUYemek\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">REST API</a>.",
-  "github": "https://github.com/smddzcy/BUYemek-iOS"
+  "name": "gitblame",
+  "description": "Simple Web Application to show each member in team work in a web-based interface",
+  "github": "https://github.com/mhewedy/gitblame"
 }, {
-  "name": "SkateMate",
-  "description": "SkateMate enables skaters to find and share new spots, and connect with each other in real-time. It was our ENG 493 - Launching a Successful Software Startup course project in 2016 Fall term, at Boğaziçi University. I was responsible for the development of the mobile application (cross-platform, built with Ionic).",
-  "github": "https://github.com/smddzcy/SkateMate",
-  "link": "http://www.getskatemate.com/"
+  "name": "aqarme",
+  "description": "Service to query https://sa.aqar.fm/ for certain criteria and notifies me back by Facebook messenger on the list of apartments that matches my criteria.",
+  "github": "https://github.com/mhewedy/aqarme"
 }, {
-  "name": "Panic Bracelet",
-  "description": "A smart bracelet that shows you the probability of being harassed in a neighborhood, and sends a message to your loved ones and the police when pressed.",
-  "github": "https://github.com/smddzcy/hackathon-techsummit-2017"
-}, {
-  "name": "Wower",
-  "description": "An app for cyber attack protection which protects the user's files and tracks the attacker.",
-  "github": "https://github.com/smddzcy/Wower"
-}, {
-  "name": "WowDoor",
-  "description": "An IoT device that gives the ability to lock &amp; unlock doors with a smartphone.",
-  "github": "https://github.com/smddzcy/WowDoor"
-}, {
-  "name": "EngelsizMenu",
-  "description": "Accessible, easy-to-use restaurant menu app for visually impaired.",
-  "github": "https://github.com/smddzcy/EngelsizMenu"
-}, {
-  "name": "IlanTakip",
-  "description": "Automatic tracking system for some real-estate listing sites in Turkey.",
-  "github": "https://github.com/smddzcy/ilanTakip"
-}, {
-  "name": "dekrypt",
-  "description": "A command-line tool for automatic decryption/decipher of a number of encryption/cipher algorithms.",
-  "github": "https://github.com/smddzcy/dekrypt"
+  "name": "mego",
+  "description": "The MS Exchange meeting organizer",
+  "github": "https://github.com/mhewedy/mego"
 }]
