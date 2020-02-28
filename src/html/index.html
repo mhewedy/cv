@@ -84,26 +84,7 @@
         </div>
         <!--(bake-end)-->
 
-        <!--(bake-start _if="projects.length")-->
-        <div class="block">
-          <!--(bake _section-header.html title="Open Source Projects")-->
-          <!--(bake-start _foreach="project:projects")-->
-            <section class="project">
-              <div class="flex-row flex-space-between">
-                <h1>{{project.name | trim}}
-                  <!--(bake-start _if="project.github")-->
-                  <a href="{{project.github | trim}}" target="_blank"><i class="fa fa-github"></i></a>
-                  <!--(bake-end)-->
-                  <!--(bake-start _if="project.link")-->
-                  <a href="{{project.link | trim}}" target="_blank"><i class="fa fa-globe"></i></a>
-                  <!--(bake-end)-->
-                </h1>
-              </div>
-              <p>{{project.description | trim}}</p>
-            </section>
-          <!--(bake-end)-->
-        </div>
-        <!--(bake-end)-->
+       
 
         <!--(bake-start _if="volunteering_experiences.length")-->
         <div class="block">
@@ -183,6 +164,27 @@
             <p>{{certificate.description | trim}}</p>
             <!--(bake-end)-->
           </section>
+          <!--(bake-end)-->
+        </div>
+        <!--(bake-end)-->
+		  
+        <!--(bake-start _if="projects.length")-->
+        <div class="block">
+          <!--(bake _section-header.html title="Open Source Projects")-->
+          <!--(bake-start _foreach="project:projects")-->
+            <section class="project">
+              <div class="flex-row flex-space-between">
+                <h1>{{project.name | trim}}
+                  <!--(bake-start _if="project.github")-->
+                  <a href="{{project.github | trim}}" target="_blank"><i class="fa fa-github"></i></a>
+                  <!--(bake-end)-->
+                  <!--(bake-start _if="project.link")-->
+                  <a href="{{project.link | trim}}" target="_blank"><i class="fa fa-globe"></i></a>
+                  <!--(bake-end)-->
+                </h1>
+              </div>
+              <p>{{project.description | trim}}</p>
+            </section>
           <!--(bake-end)-->
         </div>
         <!--(bake-end)-->
