@@ -1,2 +1,2 @@
 grunt build
-cp -rf dist/* ../mhewedy.github.io/
+cp -rf dist/* mhewedy.github.io/

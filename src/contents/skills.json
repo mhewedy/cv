@@ -5,6 +5,8 @@
   "Basic knowledge Linux programming (syscalls, strace, LKM, LSM, filesystems, namespaces and others)",
   "Basic understanding of the different storage types (object, block, file) and its use cases",
   "Basic understanding Hypervisors and containerization (the theory and practices)",
+  "Good understanding of RDBMS, NoSQL databases, Big Data and Database Sharding techniques",
+  "Basic knowledge about NoSQL solutions such as Cassandra and Couchbase",
   "Experience with full-Stack Web Development (Angular, Vue.js, Mustache.js and others)",
   "Object-Oriented Analysis, Design, Programming (OOA/OOD/OOP)",
   "Algorithm Design and Analysis",
