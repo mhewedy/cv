@@ -15,11 +15,11 @@ A simple, modern CV / resume template. Click [here](https://smddzcy.com/cv/) to 
 
 3. Run `grunt build` and get your fresh CV in the HTML format from `dist/index.html`.
 
-4. Deploy by running `./build.sh` then cd "mhewedy.github.io" and commit and push to github
+4. Deploy by running `./build.sh` then `cd mhewedy.github.io` and git commit then push to github
 
 If you want it in the PDF format, you can print the page as a PDF from your browser, just like I do all the time.
 
-**Note:** `src/contents/color_palette.json` contains the color settings of your CV. There is a fixed set of colors, and you can look at your options from that file (`colorOptions` field) or [here](https://raw.githubusercontent.com/smddzcy/cv/master/src/img/color-palette.jpg) or `src/img/color-palette.jpg` file.
+> **Note:** `src/contents/color_palette.json` contains the color settings of your CV. There is a fixed set of colors, and you can look at your options from that file (`colorOptions` field) or [here](https://raw.githubusercontent.com/smddzcy/cv/master/src/img/color-palette.jpg) or `src/img/color-palette.jpg` file.
 
 ## Filling Your Information
 
